@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Aryo Pandu',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Aryo Pandu D.A',
+            child: 'Putra ke 2',
+            father: 'Andi W',
+            mother: 'Nuke E',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Dwi Anggoro',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Nafika Siti Nur Annisa',
+            child: 'Putri ke 1',
+            father: 'Komari',
+            mother: '',
             image: './src/assets/images/cewe.png'
         },
 
@@ -22,31 +22,31 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2025',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2026',
+            month: 'Maret',
+            date: '24',
+            day: 'Selasa',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2026',
+            month: 'Maret',
+            date: '24',
+            day: 'Selasa',
             hours: {
                 start: '11.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Masjid Ulul Azmi Universitas Airlangga'
     },
 
     link: {
         calendar: 'https://calendar.app.google/2bkRUp277sVfnzGN8',
-        map: 'https://maps.app.goo.gl/2V4ERWDHBpFXExFV9',
+        map: 'hhttps://maps.app.goo.gl/p7fWNaxpAXenS3w59',
     },
 
     galeri: [
@@ -75,13 +75,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
+            name: 'BCA',
             icon: './src/assets/images/bca.png',
             rekening: '12345678'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'BRI',
             icon: './src/assets/images/bri.png',
             rekening: '12345678'
         },
